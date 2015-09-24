@@ -15,6 +15,8 @@ avatar: https://avatars0.githubusercontent.com/u/1918319
 # Flags below are optional
 #
 
+include: ['_pages']
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
