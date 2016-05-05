@@ -186,6 +186,7 @@ pre {
 
 .site-info {
   float: left;
+  margin-top: 15px;
 
   @include mobile {
     float: none;
@@ -210,7 +211,7 @@ pre {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-  max-width: 400px;
+  max-width: 290px;
 
   @include mobile {
     margin: 3px 0;
